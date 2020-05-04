@@ -1,0 +1,729 @@
+fileFormatVersion: 2
+guid: 4feb8802bd490424c9495dc77e4dc549
+timeCreated: 1450037016
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: racer1_F0
+    21300002: racer1_F1
+    21300004: racer1_R0
+    21300006: racer1_R1
+    21300008: racer1_L0
+    21300010: racer1_L1
+    21300012: explosion0
+    21300014: explosion1
+    21300016: explosion2
+    21300018: explosion3
+    21300020: explosion4
+    21300022: explosion5
+    21300024: explosion6
+    21300026: racer1_B0
+    21300028: racer1_B1
+    21300030: racer2_1
+    21300032: racer2_0
+    21300034: racer2_B0
+    21300036: racer2_B1
+    21300038: racer3_0
+    21300040: racer3_1
+    21300042: racer3_B0
+    21300044: racer3_B1
+    21300046: racer0_0
+    21300048: racer0_1
+    21300050: racer0_B0
+    21300052: racer0_B1
+    21300054: racer0_off
+    21300056: racer1_off
+    21300058: racer2_off
+    21300060: racer3_off
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 256
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: racer1_F0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 16}
+        - {x: -9, y: 16}
+        - {x: -16, y: 3}
+        - {x: -16, y: -8}
+        - {x: -9, y: -15}
+        - {x: 8, y: -15}
+        - {x: 15, y: -12}
+        - {x: 15, y: 8}
+        - {x: 14, y: 11}
+    - name: racer1_F1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 16}
+        - {x: -16, y: 2}
+        - {x: -16, y: -8}
+        - {x: -15, y: -10}
+        - {x: -10, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -11}
+        - {x: 15, y: 2}
+        - {x: 4, y: 16}
+    - name: racer1_R0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 16}
+        - {x: -9, y: 16}
+        - {x: -16, y: 3}
+        - {x: -16, y: -8}
+        - {x: -10, y: -16}
+        - {x: 6, y: -16}
+        - {x: 15, y: -9}
+        - {x: 15, y: 5}
+        - {x: 14, y: 11}
+    - name: racer1_R1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -16, y: 3}
+        - {x: -16, y: -12}
+        - {x: -11, y: -16}
+        - {x: 9, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 3}
+        - {x: 7, y: 16}
+    - name: racer1_L0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 16}
+        - {x: -5, y: 16}
+        - {x: -15, y: 11}
+        - {x: -16, y: 6}
+        - {x: -16, y: -8}
+        - {x: -9, y: -16}
+        - {x: 8, y: -16}
+        - {x: 15, y: -9}
+        - {x: 15, y: -1}
+        - {x: 12, y: 10}
+    - name: racer1_L1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -16, y: 3}
+        - {x: -16, y: -12}
+        - {x: -11, y: -16}
+        - {x: 9, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 3}
+        - {x: 7, y: 16}
+    - name: explosion0
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 12}
+        - {x: -5, y: 12}
+        - {x: -14, y: 9}
+        - {x: -14, y: -5}
+        - {x: -6, y: -11}
+        - {x: -1, y: -12}
+        - {x: 6, y: -12}
+        - {x: 12, y: -6}
+        - {x: 12, y: 10}
+    - name: explosion1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 14}
+        - {x: -14, y: 10}
+        - {x: -14, y: -14}
+        - {x: 8, y: -14}
+        - {x: 16, y: -11}
+        - {x: 16, y: 8}
+        - {x: 5, y: 14}
+    - name: explosion2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -16, y: 15}
+        - {x: -16, y: -12}
+        - {x: -10, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: explosion3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -16, y: 12}
+        - {x: -16, y: -5}
+        - {x: -8, y: -16}
+        - {x: 12, y: -16}
+        - {x: 16, y: -13}
+        - {x: 16, y: 13}
+        - {x: 13, y: 16}
+    - name: explosion4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -16, y: 7}
+        - {x: -16, y: -14}
+        - {x: -9, y: -16}
+        - {x: 12, y: -16}
+        - {x: 16, y: -10}
+        - {x: 16, y: 16}
+      - - {x: -16, y: 6}
+        - {x: -13, y: 7}
+        - {x: -13, y: 10}
+        - {x: -15, y: 12}
+        - {x: -16, y: 12}
+    - name: explosion5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 12}
+        - {x: 13, y: 9}
+        - {x: 11, y: 6}
+        - {x: 11, y: 3}
+        - {x: 11, y: 5}
+        - {x: 9, y: 10}
+        - {x: 4, y: 14}
+        - {x: -16, y: 14}
+        - {x: -16, y: -14}
+        - {x: -14, y: -16}
+        - {x: 12, y: -16}
+        - {x: 16, y: -13}
+        - {x: 16, y: 12}
+    - name: explosion6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -10}
+        - {x: -5, y: -15}
+        - {x: -5, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: -10}
+      - - {x: 9, y: -1}
+        - {x: 7, y: -2}
+        - {x: 7, y: -15}
+        - {x: 10, y: -16}
+        - {x: 16, y: -14}
+        - {x: 16, y: -5}
+        - {x: 11, y: -1}
+      - - {x: -16, y: -3}
+        - {x: -16, y: -12}
+        - {x: -13, y: -15}
+        - {x: -10, y: -14}
+        - {x: -10, y: -9}
+        - {x: -14, y: -3}
+      - - {x: -5, y: -8}
+        - {x: -2, y: -7}
+        - {x: -2, y: -4}
+        - {x: -5, y: -3}
+        - {x: -7, y: -5}
+      - - {x: -14, y: 6}
+        - {x: -16, y: 4}
+        - {x: -16, y: -1}
+        - {x: -12, y: -1}
+        - {x: -10, y: 0}
+        - {x: -9, y: 4}
+        - {x: -11, y: 6}
+      - - {x: 8, y: 13}
+        - {x: 8, y: 8}
+        - {x: 13, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 11}
+        - {x: 11, y: 13}
+      - - {x: 0, y: 5}
+        - {x: 3, y: 6}
+        - {x: 3, y: 9}
+        - {x: 0, y: 10}
+        - {x: -2, y: 8}
+      - - {x: -13, y: 8}
+        - {x: -13, y: 11}
+        - {x: -16, y: 12}
+        - {x: -16, y: 7}
+      - - {x: -10, y: 9}
+        - {x: -7, y: 10}
+        - {x: -7, y: 13}
+        - {x: -10, y: 14}
+        - {x: -12, y: 12}
+      - - {x: -4, y: 16}
+        - {x: -7, y: 13}
+        - {x: -6, y: 10}
+        - {x: -3, y: 10}
+        - {x: 2, y: 14}
+        - {x: 1, y: 16}
+    - name: racer1_B0
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -16, y: 2}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 1}
+        - {x: 5, y: 16}
+    - name: racer1_B1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 16}
+        - {x: -16, y: 2}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 0}
+        - {x: 4, y: 16}
+    - name: racer2_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -16, y: 10}
+        - {x: -16, y: -10}
+        - {x: -6, y: -16}
+        - {x: 9, y: -16}
+        - {x: 16, y: -7}
+        - {x: 16, y: 15}
+        - {x: 11, y: 16}
+    - name: racer2_0
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -16, y: 15}
+        - {x: -16, y: -8}
+        - {x: -2, y: -16}
+        - {x: 5, y: -16}
+        - {x: 16, y: -7}
+        - {x: 16, y: 12}
+        - {x: 13, y: 16}
+    - name: racer2_B0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 6}
+        - {x: 15, y: 9}
+        - {x: 8, y: 16}
+        - {x: -10, y: 16}
+        - {x: -16, y: 8}
+        - {x: -16, y: -4}
+        - {x: -11, y: -16}
+        - {x: 8, y: -16}
+        - {x: 11, y: -15}
+        - {x: 12, y: -12}
+        - {x: 16, y: -4}
+    - name: racer2_B1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -16, y: 13}
+        - {x: -16, y: -14}
+        - {x: -15, y: -16}
+        - {x: 13, y: -16}
+        - {x: 16, y: -5}
+        - {x: 16, y: 15}
+        - {x: 14, y: 16}
+    - name: racer3_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 16}
+        - {x: -14, y: 1}
+        - {x: -14, y: -15}
+        - {x: 13, y: -15}
+        - {x: 13, y: -3}
+        - {x: 9, y: 8}
+        - {x: 2, y: 16}
+    - name: racer3_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 16}
+        - {x: -7, y: 16}
+        - {x: -14, y: 1}
+        - {x: -14, y: -12}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: 8}
+        - {x: 11, y: 10}
+      - - {x: 12, y: 12}
+        - {x: 14, y: 9}
+        - {x: 16, y: 10}
+        - {x: 16, y: 13}
+        - {x: 14, y: 14}
+    - name: racer3_B0
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -14, y: 3}
+        - {x: -14, y: -15}
+        - {x: 12, y: -15}
+        - {x: 13, y: -14}
+        - {x: 13, y: -2}
+        - {x: 3, y: 16}
+    - name: racer3_B1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -14, y: 0}
+        - {x: -14, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: -2}
+        - {x: 3, y: 16}
+    - name: racer0_0
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -16, y: 14}
+        - {x: -16, y: -8}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 7}
+        - {x: 11, y: 16}
+    - name: racer0_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 12}
+        - {x: 11, y: 16}
+        - {x: -11, y: 16}
+        - {x: -16, y: 13}
+        - {x: -16, y: -9}
+        - {x: -14, y: -16}
+        - {x: 15, y: -16}
+    - name: racer0_B0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -16, y: 11}
+        - {x: -16, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 8}
+        - {x: 11, y: 16}
+    - name: racer0_B1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -16, y: 11}
+        - {x: -16, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 8}
+        - {x: 11, y: 16}
+    - name: racer0_off
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -16, y: 9}
+        - {x: -16, y: -13}
+        - {x: 15, y: -13}
+        - {x: 15, y: 5}
+        - {x: 10, y: 16}
+    - name: racer1_off
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -3}
+        - {x: -16, y: -9}
+        - {x: -14, y: -11}
+        - {x: 15, y: -11}
+        - {x: 15, y: 10}
+        - {x: 14, y: 12}
+        - {x: 4, y: 16}
+        - {x: -8, y: 16}
+        - {x: -12, y: 9}
+    - name: racer2_off
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -16, y: 10}
+        - {x: -16, y: -3}
+        - {x: -6, y: -14}
+        - {x: 9, y: -14}
+        - {x: 16, y: -8}
+        - {x: 16, y: 15}
+        - {x: 11, y: 16}
+    - name: racer3_off
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -14, y: 2}
+        - {x: -14, y: -11}
+        - {x: 13, y: -11}
+        - {x: 13, y: -4}
+        - {x: 3, y: 16}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

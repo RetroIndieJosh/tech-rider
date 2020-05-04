@@ -1,0 +1,91 @@
+[REASONING]
+- +$1,500 per month development
+	- windows, mac, linux
+	- +$??? physical disc
+	- +$??? physical manual
+	- +$??? physical box
+- +$3,200 GDC March 14-18
+	- +$100 taxi to/from airport
+	- +$556 bijou: $139/night
+	- +$300 food budget ($75/day)
+	- +$600 plane ticket
+	- +$799 summits, tutorials, bootcamps pass (before 2/3)
+	- OR +$999 main conferences
+	- OR $1,599 all-access (preferred)
+	- +$??? company establishment costs (required to attend)
+	- >$2,335 to $3,135
+- $15,000 console ports
+	- +$2,500 PS4
+	- +$5,000 XB1
+	- +$1,500 five months
+- +$1,200 for mobile port (plus time obviously)
+	- +$800 for iOS = $300 iPhone + $499 iPad
+	- +$400 android tablet
+- NES port
+	- +$2,000 per month development
+	- +$??? physical cartridge
+	- +$??? physical manual
+	- +$??? physical box
+
+- physical discs
+	- $499 for 1,000 CDs
+	- $1,049 for 1,000 jewel cases + covers
+
+[TIERS]
+- $5,000 initial ask
+	- windows, mac, linux
+	- $4,500 3 months development
+	- $500 features
+		- AI racers implementation
+		- attack implementation
+		- 9 total tracks (6 new - same environments)
+		- 6 total racers (3 new)
+		- modes: grand prix, time attack
+- $10,000 tier 2
+	- $9,000 6 months development
+	- $1,000 features as above plus:
+		- 9 total racers (3 new)
+		- 18 total tracks (9 new) in 6 environments, 6 each for 3 cups
+		- new environments: desert, hills, forest, underwater, alien planets?
+		- modes: local multiplayer
+- $15,000 tier 3
+	- $13,500 9 months development
+	- $1,500 features as above plus:
+		- 12 total racers (3 new)
+		- 21 total tracks (3 new - same environments), 7 each for 3 cups
+		- online multiplayer
+		- online leaderboard
+- $20,000 tier 4
+	- $18,000 12 months development
+	- $2,000 features as above plus:
+		- 28 total tracks (7 new) in 7 environments, 7 each for 4 cups
+
+- $25,000 tier 5
+	- $18,000 12 months development
+	- $7,000 features as above plus:
+		- +$5,000 hire artist to improve graphics
+
+- $35,000 tier 6: $33,500
+	- $27,000 18 months development
+	- $8,000 features as above plus:
+		- +$500 track editor w/ downloadable user tracks (including leaderboard support)
+		- +$500 new cup (7 tracks) bringing total to 35
+
+- $50,000 tier 6: $37,500
+	- $31,500 21 months development
+	- $16,000 features as above plus:
+		- +$3,500 port to PS4, XB1
+
+
+- $75,000 tier 7
+
+- $100,000 tier 8
+		- port to NES or Super NES (depends on tech requirements)
+
+- $150,000 tier 9
+- $200,000 tier 10
+- $250,000 tier 11
+- $350,000 tier 12
+- $500,000 tier 13
+- $750,000 tier 14
+- $1,000,000 tier 15

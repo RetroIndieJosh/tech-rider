@@ -1,0 +1,47 @@
+﻿NOTES
+- all children of GameManager in ship-select.unity are persistent
+
+[layers]
+0	space
+1	between space and track (falling)
+2	track
+3	boost plates / power-ups
+4	racers
+
+[Android]
+- horizontal is better than vertical
+- text is teeeeny
+- space lane is easier than sea drive
+- controls should be fixed so if left is down then can't go right & vice versa
+
+[Notes]
+- shannon times:
+	1) 2:39.2
+	2) 2:54.93
+	3) 11:52+ (gave up)
+- focus on wall "braking" as a mechanic? maybe "brake pads" in the ground?"
+	- idea: braking is positional, not control
+- new racers?
+- new tracks?
+- new environments?
+- map editor!
+	- for self at the beginning
+- export music as wav and normalize to ogg (don't put wavs in project!)
+- what's the point of attacking if there aren't enemy ships?
+    - could put attack back in w/ enemy ships but the following ideas should be
+      considered - how to control with two buttons?
+    - maybe running into enemy ships = destroyed
+    - could get a speed boost for hitting them? (nonsense!)
+	- charge boost (1+2 while charged)
+	- charge jump (1+2 while boosting)
+    - could remove strafe entirely and have it do something else like
+	- jump over pits
+	- charge through obstacles
+	- briefly accelerate (miniboost then slow down)
+	- later, release as part of package (with user-friendly control)
+- start with easier tracks (tutorial a straight loop?)
+	- fewer (or no) death areas)
+- game story
+- drivers art (& design)
+- driver backstories / bios
+
